@@ -14,4 +14,4 @@ Others: Git, Latex, C, C++, Matlab.
 
 📫 How to reach me: ghostlyeclipse@gmail.com
 
-LinkedIn.
+[LinkedIn](https://www.linkedin.com/in/roooiz/).
