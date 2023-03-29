@@ -9,6 +9,7 @@ I am Alexander, MsD in Computer Science. I am mainly focused on the research and
 - Continuous Integration tools.
 - Linux administration and scripting.
 - Others: Git, Latex, C, C++, Matlab.
+
 👯 I’m actively looking to collaborate on AI projects.
 
 📫 How to reach me: ghostlyeclipse@gmail.com
