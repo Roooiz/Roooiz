@@ -8,6 +8,7 @@ I am Alexander, MsD in Computer Science. I am mainly focused on the research and
 
 - Python data science stack: Numpy, Pandas, SciPy, Matplotlib.
 - Machine Learning frameworks: Pytorch, Tensorflow, Keras, Scikit-learn.
+- [![My Skills](https://skillicons.dev/icons?i=py,tensorflow,pytorch&perline=3)](https://skillicons.dev)
 - Cloud computing: mainly AWS.
 - Continuous Integration tools.
 - Linux administration and scripting.
