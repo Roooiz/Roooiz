@@ -8,7 +8,6 @@ I am Alexander, MsD in Computer Science. I am mainly focused on the research and
 
 - Python data science stack: Numpy, Pandas, SciPy, Matplotlib.
 - Machine Learning frameworks: Pytorch, Tensorflow, Keras, Scikit-learn.
-- [![My Skills](https://skillicons.dev/icons?i=py,tensorflow,pytorch&perline=3)](https://skillicons.dev)
 - Cloud computing: mainly AWS.
 - Continuous Integration tools.
 - Linux administration and scripting.
@@ -16,6 +15,8 @@ I am Alexander, MsD in Computer Science. I am mainly focused on the research and
 
 👯 I’m actively looking to collaborate on AI projects.
 
+- [![My Skills](https://skillicons.dev/icons?i=py,cpp,tensorflow,pytorch,redis,grafana&perline=2)](https://skillicons.dev)
+
 📫 How to reach me: ghostlyeclipse@gmail.com
 
-[LinkedIn](https://www.linkedin.com/in/roooiz/).
+[![My Skills](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/roooiz/).
