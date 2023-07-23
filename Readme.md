@@ -17,6 +17,8 @@ I am Alexander, MsD in Computer Science. I am mainly focused on the research and
 
 - [![My Skills](https://skillicons.dev/icons?i=py,cpp,tensorflow,pytorch,redis,grafana&perline=2)](https://skillicons.dev)
 
-📫 How to reach me: ghostlyeclipse@gmail.com
+📫 [How to reach me][1]
 
 [![My Skills](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/roooiz/).
+
+[1]: mailto:ghostlyeclipse@gmail.com
