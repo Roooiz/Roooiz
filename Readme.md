@@ -8,6 +8,7 @@ I am mainly engaged in research and development of modern deep learning systems 
 - computer vision;
 - natural language processing;
 - recommender systems.
+
 Always looking for new challenges.
 
 🔭 I’m proficient in:
